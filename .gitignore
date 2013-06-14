@@ -25,3 +25,10 @@ proguard-project.txt
 #Gradle
 .gradle
 build
+
+#Root-project settings
+settings.gradle
+
+#Android-Support-V4
+android-support-v4
+android-support-v4.jar
